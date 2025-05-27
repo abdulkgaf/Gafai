@@ -1,5 +1,7 @@
 <h1>Luck is what happens when preparation meets opportunity</a>☺</h1>
 
+![](https://komarev.com/ghpvc/?username=abdulkgaf)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
