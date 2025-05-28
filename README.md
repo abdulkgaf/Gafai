@@ -13,6 +13,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulkgaf/azure-network-protocols)
 - <b>DNS</b>
   - [DNS A-Records and CNAME Records](https://github.com/abdulkgaf/dns-a-records-cname)
+- <b>Network File and Sharing permissions</b>
+  - [Network File and Sharing]()
 
 
 
