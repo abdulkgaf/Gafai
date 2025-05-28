@@ -11,6 +11,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulkgaf/azure-network-protocols)
+- <b>DNS</b>
+  - [DNS A-Records and CNAME Records](https://github.com/abdulkgaf/dns-a-records-cname)
+
+
 
 <h2>🤳Connect with me:</h2>
 
