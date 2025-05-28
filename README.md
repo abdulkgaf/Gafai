@@ -21,3 +21,9 @@
 
 [instagram]: https://www.instagram.com/hush.gote/
 [linkedin]: https://www.linkedin.com/in/abdul-karim-gafai-3516b11ba/
+
+
+
+
+
+-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkgaf&show_icons=true&locale=en&layout=compact" alt="abdulkgaf" /></p>
