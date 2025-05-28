@@ -14,7 +14,7 @@
 - <b>DNS</b>
   - [DNS A-Records and CNAME Records](https://github.com/abdulkgaf/dns-a-records-cname)
 - <b>Network File and Sharing permissions</b>
-  - [Network File and Sharing]()
+  - [Network File and Sharing](https://github.com/abdulkgaf/network-files)
 
 
 
