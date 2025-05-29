@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/abdulkgaf/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/abdulkgaf/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abdulkgaf/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulkgaf/azure-network-protocols)
 - <b>DNS</b>
   - [DNS A-Records and CNAME Records](https://github.com/abdulkgaf/dns-a-records-cname)
